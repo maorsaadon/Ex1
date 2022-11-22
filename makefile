@@ -1,4 +1,4 @@
-#dictionery 
+ 
 CC = gcc -c
 CFLAGS = -Wall -g
 CLIBSA = ar rcs
